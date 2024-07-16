@@ -42,6 +42,7 @@ Volume Hand Control is a Python application that allows users to control the sys
    ```bash
    python VolumeHandControl.py
 
+## Usage
 
 ### Control the Volume
 
@@ -70,7 +71,8 @@ Volume Hand Control is a Python application that allows users to control the sys
 - [Pycaw](https://github.com/AndreMiras/pycaw)
 
 ### Collaborator
-- [Hajeera Suhani](https://github.com/hajira25)
+- [Hajeera Suhani](https://github.com/hajira25) 4MH21CS030
+- [Sufiya Salam](https://github.com/sufiyasalam) 4MH21CS102
 
 ## License
 
