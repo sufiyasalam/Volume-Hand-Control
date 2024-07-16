@@ -69,6 +69,9 @@ Volume Hand Control is a Python application that allows users to control the sys
 - [MediaPipe](https://mediapipe.dev/)
 - [Pycaw](https://github.com/AndreMiras/pycaw)
 
+### Collaborator
+- [Hajeera Suhani](https://github.com/hajira25)
+
 ## License
 
 - This project is licensed under the MIT License. See the LICENSE file for details.
